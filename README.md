@@ -7,7 +7,7 @@
 
 
 <b>JSIN-001</b><br/>
-<a href=https://www.kodaktor.ru/?!=a278422_bc965>Ответ в кодакторе</a><br/>
+<a href='https://www.kodaktor.ru/?!=a278422_bc965'>Ответ в кодакторе</a><br/>
 <a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/JSIN-001>Ответ на github</a><br/>
 
 <b>TERN_001</b><br/>
