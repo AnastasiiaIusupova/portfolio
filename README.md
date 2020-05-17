@@ -5,13 +5,6 @@
 <b>XMLT-001</b><br/>
 <a href=https://github.com/Nyussay/tasks/tree/master/XMLT-001>Ответ</a> <br/>
 
-<b>JSON-INTRO </b><br/>
-<a href=https://github.com/Nyussay/tasks/blob/master/JSON/stu..>Часть I. Перевод с языка XML на язык JSON</a> <br/>
-Валидация на сайте <a href=jsonlint.com>jsonlint.com</a>
-![valid](https://user-images.githubusercontent.com/58169429/78..)<br/>
-<a href=https://github.com/Nyussay/tasks/blob/master/JSON/sch..>Часть II. Построение схемы</a> <br/>
-Валидация в <a href=jsonschemavalidator.net>jsonschemavalidator.net</a>
-![valid2](https://user-images.githubusercontent.com/58169429/78..)<br/>
 
 <b>JSIN-001</b><br/>
 <a href=https://www.kodaktor.ru/?!=a278422_bc965>Ответ в кодакторе</a><br/>
