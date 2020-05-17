@@ -37,10 +37,16 @@
 <a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_005>Ответ на github</a> <br/>
 <b>FUNC_006</b><br/>
 <a href=https://kodaktor.ru/?!=func_d4043>Ответ в кодакторе</a> <br/>
-<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_006>>Ответ на github</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_006>Ответ на github</a> <br/>
 <b>FUNC_007</b><br/>
-<a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUN..>Ответ</a> <br/>
-<a href=https://kodaktor.ru/func_2f437>Ответ в кодакторе</a> <br/>
+<a href=https://kodaktor.ru/?!=func_1f5dc>Ответ в кодакторе</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_007>Ответ на github</a> <br/>
 <b>FUNC_008</b><br/>
-<a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUN..>Ответ</a> <br/>
-<a href=https://kodaktor.ru/func_b97ca>Ответ в кодакторе</a> <br/>
+<a href=https://kodaktor.ru/?!=func_d55bf>Ответ в кодакторе</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_008>Ответ на github</a> <br/>
+<b>FUNC_009</b><br/>
+<a href=https://kodaktor.ru/?!=func_0f5a7>Ответ в кодакторе</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_009>Ответ на github</a> <br/>
+<b>FUNC_010</b><br/>
+<a href=https://kodaktor.ru/?!=func_880ec>Ответ в кодакторе</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_009>Ответ на github</a> <br/>
