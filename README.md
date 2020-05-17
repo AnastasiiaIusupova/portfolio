@@ -22,8 +22,8 @@
 <a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/TERN_001>Тот же ответ на github</a><br/>
 
 <b>FUNC_001</b><br/>
-<a href=https://kodaktor.ru/?!=task_func_88587> Ответ в кодакторе <br/>
-<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_001> Ответ на github <br/>
+<a href=https://kodaktor.ru/?!=task_func_88587> Ответ в кодакторе</a> <br/>
+<a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_001> Ответ на github</a> <br/>
 <b>FUNC_002</b><br/>
 <a href=https://kodaktor.ru/?!=func_df975>Ответ в кодакторе</a> <br/>
 <a href=https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_002>Ответ на github</a> <br/>
