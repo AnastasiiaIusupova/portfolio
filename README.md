@@ -56,3 +56,7 @@
 <b>EVNT_002</b><br/>
 <a href='https://kodaktor.ru/custom_07000'>Ответ в кодакторе</a> <br/>
 <a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/EVNT_002'>Ответ на github</a> <br/>
+
+<b>FRMW_001</b><br/>
+<a href='https://kodaktor.ru/react_state_cbc26'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/EVNT_002'>Ответ на github</a> <br/>
