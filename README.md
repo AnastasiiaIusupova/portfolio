@@ -44,3 +44,11 @@
 <b>FUNC_010</b><br/>
 <a href='https://kodaktor.ru/?!=func_880ec'>Ответ в кодакторе</a> <br/>
 <a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FUNC_009'>Ответ на github</a> <br/>
+
+<b>BABL_002</b><br/>
+<a href='https://kodaktor.ru/bind02032018_35be2'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/BABL_002'>Ответ на github</a> <br/>
+
+<b>ASYNC_TASK</b><br/>
+<a href='https://www.kodaktor.ru/b97387c'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/ASYNC_TASK'>Ответ на github</a> <br/>
