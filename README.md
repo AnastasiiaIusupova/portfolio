@@ -57,3 +57,11 @@
 <b>FRMW_001</b><br/>
 <a href='https://kodaktor.ru/react_state_cbc26'>Ответ в кодакторе</a> <br/>
 <a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/EVNT_002'>Ответ на github</a> <br/>
+
+<b>FRMW_002</b><br/>
+<a href='https://kodaktor.ru/frmw_6c82c'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FRMW_002'>Ответ на github</a> <br/>
+
+<b>FRMW_003</b><br/>
+<a href='https://kodaktor.ru/frmw_f7916'>Ответ в кодакторе</a> <br/>
+<a href='<h4 id="author" title="GossJS">Юсупова Анастасия</h4>'>Ответ на github</a> <br/>
