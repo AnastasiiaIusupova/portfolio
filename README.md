@@ -2,9 +2,6 @@
 Репозиторий для хранения Веб-портфолио (GitHub Pages)<br/>
 <a href=https://github.com/GossJS/ifmo-2019/tree/tasks-2020-spring>Исходные задания</a><br/>
 
-<b>XMLT-001</b><br/>
-<a href=https://github.com/Nyussay/tasks/tree/master/XMLT-001>Ответ</a> <br/>
-
 
 <b>JSIN-001</b><br/>
 <a href='https://www.kodaktor.ru/?!=a278422_bc965'>Ответ в кодакторе</a><br/>
