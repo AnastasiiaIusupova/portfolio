@@ -64,4 +64,12 @@
 
 <b>FRMW_003</b><br/>
 <a href='https://kodaktor.ru/frmw_f7916'>Ответ в кодакторе</a> <br/>
-<a href='<h4 id="author" title="GossJS">Юсупова Анастасия</h4>'>Ответ на github</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FRMW_003'>Ответ на github</a> <br/>
+
+<b>FRMW_004</b><br/>
+<a href='https://kodaktor.ru/frmw_eb69f'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FRMW_004'>Ответ на github</a> <br/>
+
+<b>FRMW_005</b><br/>
+<a href='https://kodaktor.ru/frmw_5a631'>Ответ в кодакторе</a> <br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FRMW_005'>Ответ на github</a> <br/>
