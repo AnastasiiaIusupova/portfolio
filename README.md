@@ -79,3 +79,6 @@
 <b>FRMW_005</b><br/>
 <a href='https://kodaktor.ru/frmw_5a631'>Ответ в кодакторе</a> <br/>
 <a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/FRMW_005'>Ответ на github</a> <br/>
+
+<b>FRMW_006</b><br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/tree/master/elm-project-master'>Ответ на github</a> <br/>
