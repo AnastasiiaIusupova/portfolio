@@ -3,6 +3,12 @@
 <a href=https://github.com/GossJS/ifmo-2019/tree/tasks-2020-spring>Исходные задания</a><br/>
 
 
+
+<b>Drag and Drop</b><br/>
+<a href='https://www.kodaktor.ru/on_d19fc'>Ответ в кодакторе</a><br/>
+<a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/Drag%20and%20Drop'>Ответ на github</a><br/>
+
+
 <b>JSIN-001</b><br/>
 <a href='https://www.kodaktor.ru/?!=a278422_bc965'>Ответ в кодакторе</a><br/>
 <a href='https://github.com/AnastasiiaIusupova/tasks/blob/master/JSIN-001'>Ответ на github</a><br/>
